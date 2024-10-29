@@ -16,8 +16,6 @@ fill_color = os.getenv("FILL_COLOR", "black")
 back_color = os.getenv("BACK_COLOR", "white")
 env = os.getenv("ENV", "prod").lower()
 
-print(qr_code_dir)
-
 # Configure logging directory and file
 log_dir = os.path.join(os.getcwd(), "logs")
 os.makedirs(log_dir, exist_ok=True)
