@@ -1,0 +1,61 @@
+
+2024-10-29 14:00:21,496 - DEBUG - Environment: dev
+2024-10-29 14:00:21,496 - DEBUG - QR Code Directory: /var/qr/data
+2024-10-29 14:00:21,496 - DEBUG - Fill Color: red
+2024-10-29 14:00:21,496 - DEBUG - Back Color: black
+2024-10-29 14:00:21,497 - INFO - Generating QR code for URL: https://github.com/dylandacosta8/is601_7
+2024-10-29 14:00:21,516 - INFO - QR code saved at \var\qr\data\20241029140021_github_com.png
+2024-10-29 14:02:19,638 - DEBUG - Environment: dev
+2024-10-29 14:02:19,639 - DEBUG - QR Code Directory: /var/qr/data
+2024-10-29 14:02:19,639 - DEBUG - Fill Color: red
+2024-10-29 14:02:19,639 - DEBUG - Back Color: black
+2024-10-29 14:02:19,639 - INFO - Generating QR code for URL: https://github.com/dylandacosta8/is601_7
+2024-10-29 14:02:19,658 - INFO - QR code saved at \var\qr\data\20241029140219_github_com.png
+2024-10-29 14:03:47,192 - DEBUG - Environment: dev
+2024-10-29 14:03:47,192 - DEBUG - QR Code Directory: /var/qr/data
+2024-10-29 14:03:47,192 - DEBUG - Fill Color: red
+2024-10-29 14:03:47,193 - DEBUG - Back Color: black
+2024-10-29 14:03:47,193 - INFO - Generating QR code for URL: https://github.com/dylandacosta8/is601_7
+2024-10-29 14:03:47,214 - INFO - QR code saved at \var\qr\data\20241029140347_github_com.png
+2024-10-29 14:04:12,717 - DEBUG - Environment: dev
+2024-10-29 14:04:12,717 - DEBUG - QR Code Directory: /var/qr/data
+2024-10-29 14:04:12,717 - DEBUG - Fill Color: red
+2024-10-29 14:04:12,717 - DEBUG - Back Color: black
+2024-10-29 14:04:12,717 - INFO - Generating QR code for URL: https://github.com/dylandacosta8/is601_7
+2024-10-29 14:04:12,735 - INFO - QR code saved at \var\qr\data\20241029140412_github_com.png
+2024-10-29 14:04:52,991 - DEBUG - Environment: dev
+2024-10-29 14:04:52,991 - DEBUG - QR Code Directory: /var/qr/data
+2024-10-29 14:04:52,991 - DEBUG - Fill Color: red
+2024-10-29 14:04:52,991 - DEBUG - Back Color: black
+2024-10-29 14:04:52,991 - INFO - Generating QR code for URL: https://github.com/dylandacosta8/is601_7
+2024-10-29 14:04:53,010 - INFO - QR code saved at \var\qr\data\20241029140452_github_com.png
+2024-10-29 14:07:20,689 - DEBUG - Environment: dev
+2024-10-29 14:07:20,690 - DEBUG - QR Code Directory: /var/qr/data
+2024-10-29 14:07:20,690 - DEBUG - Fill Color: red
+2024-10-29 14:07:20,690 - DEBUG - Back Color: black
+2024-10-29 14:07:20,690 - INFO - Generating QR code for URL: https://github.com/dylandacosta8/is601_7
+2024-10-29 14:07:20,709 - INFO - QR code saved at \var\qr\data\20241029140720_github_com.png
+2024-10-29 14:07:36,289 - DEBUG - Environment: dev
+2024-10-29 14:07:36,289 - DEBUG - QR Code Directory: /data
+2024-10-29 14:07:36,289 - DEBUG - Fill Color: red
+2024-10-29 14:07:36,289 - DEBUG - Back Color: black
+2024-10-29 14:07:36,289 - INFO - Generating QR code for URL: https://github.com/dylandacosta8/is601_7
+2024-10-29 14:07:36,310 - INFO - QR code saved at \data\20241029140736_github_com.png
+2024-10-29 14:08:18,717 - DEBUG - Environment: dev
+2024-10-29 14:08:18,717 - DEBUG - QR Code Directory: /data
+2024-10-29 14:08:18,717 - DEBUG - Fill Color: red
+2024-10-29 14:08:18,717 - DEBUG - Back Color: black
+2024-10-29 14:08:18,717 - INFO - Generating QR code for URL: https://github.com/dylandacosta8/is601_7
+2024-10-29 14:08:18,739 - INFO - QR code saved at \data\20241029140818_github_com.png
+2024-10-29 14:08:37,652 - DEBUG - Environment: dev
+2024-10-29 14:08:37,652 - DEBUG - QR Code Directory: data
+2024-10-29 14:08:37,653 - DEBUG - Fill Color: red
+2024-10-29 14:08:37,653 - DEBUG - Back Color: black
+2024-10-29 14:08:37,653 - INFO - Generating QR code for URL: https://github.com/dylandacosta8/is601_7
+2024-10-29 14:08:37,673 - INFO - QR code saved at data\20241029140837_github_com.png
+2024-10-29 14:09:40,705 - DEBUG - Environment: dev
+2024-10-29 14:09:40,706 - DEBUG - QR Code Directory: data
+2024-10-29 14:09:40,706 - DEBUG - Fill Color: red
+2024-10-29 14:09:40,706 - DEBUG - Back Color: black
+2024-10-29 14:09:40,706 - INFO - Generating QR code for URL: https://github.com/dylandacosta8/is601_7
+2024-10-29 14:09:40,736 - INFO - QR code saved at data\20241029140940_https_github_com_dylandacosta8_is601_7.png
