@@ -12,8 +12,8 @@ load_dotenv()
 # Set environment variables with defaults if not specified
 qr_data_url = os.getenv("QR_DATA_URL", "https://github.com/dylandacosta8/is601_7")
 qr_code_dir = os.getenv("QR_CODE_DIR", "data")
-fill_color = os.getenv("FILL_COLOR", "blue")
-back_color = os.getenv("BACK_COLOR", "yellow")
+fill_color = os.getenv("FILL_COLOR", "black")
+back_color = os.getenv("BACK_COLOR", "white")
 env = os.getenv("ENV", "prod").lower()
 
 print(qr_code_dir)
